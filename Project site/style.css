@@ -120,6 +120,17 @@ body {
   font-size: larger;
 }
 img {
-  width: 20vw;
-  height: 50vh;
+  width: 21rem;
+  height: 18rem;
+}
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+td, th {
+  border: 1.5px solid #111;
+  text-align: left;
+  padding: 8px;
+  color: #111;
+  font-size: small;
 }
